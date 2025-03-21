@@ -1,0 +1,1052 @@
+[
+	{
+		"id" : 1,
+		"name" : "Dodge",
+		"image" : "uploads/custom-images/manufactures_and_brands/dodge-logo.png",
+		"slug" : "dodge",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 1
+	},
+	{
+		"id" : 2,
+		"name" : "Jeep",
+		"image" : "uploads/custom-images/manufactures_and_brands/jeep-logo.png",
+		"slug" : "jeep",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 1
+	},
+	{
+		"id" : 3,
+		"name" : "Fiat",
+		"image" : "uploads/custom-images/manufactures_and_brands/fiat-logo.png",
+		"slug" : "fiat",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 1
+	},
+	{
+		"id" : 4,
+		"name" : "Alfa Romeo",
+		"image" : "uploads/custom-images/manufactures_and_brands/alfa-romeo-logo.png",
+		"slug" : "alfa-romeo",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 1
+	},
+	{
+		"id" : 5,
+		"name" : "Ram",
+		"image" : null,
+		"slug" : "ram",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 1
+	},
+	{
+		"id" : 6,
+		"name" : "Aston Martin",
+		"image" : "uploads/custom-images/manufactures_and_brands/aston-martin-logo.png",
+		"slug" : "aston-martin",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 2
+	},
+	{
+		"id" : 7,
+		"name" : "Audi",
+		"image" : "uploads/custom-images/manufactures_and_brands/audi-logo.png",
+		"slug" : "audi",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 3
+	},
+	{
+		"id" : 8,
+		"name" : "Bentley",
+		"image" : "uploads/custom-images/manufactures_and_brands/bentley-logo.png",
+		"slug" : "bentley",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 4
+	},
+	{
+		"id" : 9,
+		"name" : "BMW",
+		"image" : "uploads/custom-images/manufactures_and_brands/bmw-logo.png",
+		"slug" : "bmw",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 5
+	},
+	{
+		"id" : 10,
+		"name" : "MINI",
+		"image" : null,
+		"slug" : "mini",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 5
+	},
+	{
+		"id" : 11,
+		"name" : "Brammo",
+		"image" : "uploads/custom-images/manufactures_and_brands/brammo-logo.png",
+		"slug" : "brammo",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 6
+	},
+	{
+		"id" : 12,
+		"name" : "Bugatti",
+		"image" : "uploads/custom-images/manufactures_and_brands/bugatti-logo.png",
+		"slug" : "bugatti",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 7
+	},
+	{
+		"id" : 13,
+		"name" : "Chevrolet",
+		"image" : "uploads/custom-images/manufactures_and_brands/chevrolet-logo.png",
+		"slug" : "chevrolet",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 8
+	},
+	{
+		"id" : 14,
+		"name" : "Buick",
+		"image" : "uploads/custom-images/manufactures_and_brands/buick-logo.png",
+		"slug" : "buick",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 8
+	},
+	{
+		"id" : 15,
+		"name" : "Cadillac",
+		"image" : "uploads/custom-images/manufactures_and_brands/cadillac-logo.png",
+		"slug" : "cadillac",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 8
+	},
+	{
+		"id" : 16,
+		"name" : "Holden",
+		"image" : null,
+		"slug" : "holden",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 8
+	},
+	{
+		"id" : 17,
+		"name" : "Opel",
+		"image" : null,
+		"slug" : "opel",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 8
+	},
+	{
+		"id" : 18,
+		"name" : "GMC",
+		"image" : "uploads/custom-images/manufactures_and_brands/gmc-logo.png",
+		"slug" : "gmc",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 8
+	},
+	{
+		"id" : 19,
+		"name" : "Honda",
+		"image" : null,
+		"slug" : "honda",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 8
+	},
+	{
+		"id" : 20,
+		"name" : "Acura",
+		"image" : null,
+		"slug" : "acura",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 8
+	},
+	{
+		"id" : 21,
+		"name" : "Pontiac",
+		"image" : "uploads/custom-images/manufactures_and_brands/pontiac-logo.png",
+		"slug" : "pontiac",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 8
+	},
+	{
+		"id" : 22,
+		"name" : "Isuzu",
+		"image" : null,
+		"slug" : "isuzu",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 8
+	},
+	{
+		"id" : 23,
+		"name" : "SAAB",
+		"image" : null,
+		"slug" : "saab",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 8
+	},
+	{
+		"id" : 24,
+		"name" : "Hummer",
+		"image" : null,
+		"slug" : "hummer",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 8
+	},
+	{
+		"id" : 25,
+		"name" : "Saturn",
+		"image" : null,
+		"slug" : "saturn",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 8
+	},
+	{
+		"id" : 26,
+		"name" : "Daewoo",
+		"image" : "uploads/custom-images/manufactures_and_brands/daewoo-logo.png",
+		"slug" : "daewoo",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 8
+	},
+	{
+		"id" : 27,
+		"name" : "American Motors",
+		"image" : null,
+		"slug" : "american-motors",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 8
+	},
+	{
+		"id" : 28,
+		"name" : "Geo",
+		"image" : "uploads/custom-images/manufactures_and_brands/geo-logo.png",
+		"slug" : "geo",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 8
+	},
+	{
+		"id" : 29,
+		"name" : "Oldsmobile",
+		"image" : null,
+		"slug" : "oldsmobile",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 8
+	},
+	{
+		"id" : 30,
+		"name" : "Cruise",
+		"image" : null,
+		"slug" : "cruise",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 8
+	},
+	{
+		"id" : 31,
+		"name" : "BrightDrop",
+		"image" : null,
+		"slug" : "brightdrop",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 8
+	},
+	{
+		"id" : 32,
+		"name" : "BYD",
+		"image" : "uploads/custom-images/manufactures_and_brands/byd-logo.png",
+		"slug" : "byd",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 9
+	},
+	{
+		"id" : 33,
+		"name" : "Canoo",
+		"image" : "uploads/custom-images/manufactures_and_brands/canoo-logo.png",
+		"slug" : "canoo",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 10
+	},
+	{
+		"id" : 34,
+		"name" : "Daihatsu",
+		"image" : "uploads/custom-images/manufactures_and_brands/daihatsu-logo.png",
+		"slug" : "daihatsu",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 11
+	},
+	{
+		"id" : 35,
+		"name" : "Nissan",
+		"image" : "uploads/custom-images/manufactures_and_brands/nissan-logo.png",
+		"slug" : "nissan",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 12
+	},
+	{
+		"id" : 36,
+		"name" : "Infiniti",
+		"image" : null,
+		"slug" : "infiniti",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 12
+	},
+	{
+		"id" : 37,
+		"name" : "Datsun",
+		"image" : "uploads/custom-images/manufactures_and_brands/datsun-logo.png",
+		"slug" : "datsun",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 12
+	},
+	{
+		"id" : 38,
+		"name" : "DeSoto Motors",
+		"image" : "uploads/custom-images/manufactures_and_brands/desoto-logo.png",
+		"slug" : "desoto-motors",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 13
+	},
+	{
+		"id" : 39,
+		"name" : "Royal Enfield",
+		"image" : null,
+		"slug" : "royal-enfield",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 14
+	},
+	{
+		"id" : 40,
+		"name" : "Ferrari",
+		"image" : "uploads/custom-images/manufactures_and_brands/ferrari-logo.png",
+		"slug" : "ferrari",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 15
+	},
+	{
+		"id" : 41,
+		"name" : "Fisker",
+		"image" : "uploads/custom-images/manufactures_and_brands/fisker-logo.png",
+		"slug" : "fisker",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 16
+	},
+	{
+		"id" : 42,
+		"name" : "Ford",
+		"image" : "uploads/custom-images/manufactures_and_brands/ford-logo.png",
+		"slug" : "ford",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 17
+	},
+	{
+		"id" : 43,
+		"name" : "Lincoln",
+		"image" : null,
+		"slug" : "lincoln",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 17
+	},
+	{
+		"id" : 44,
+		"name" : "Mercury",
+		"image" : null,
+		"slug" : "mercury",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 17
+	},
+	{
+		"id" : 45,
+		"name" : "Th!nk",
+		"image" : null,
+		"slug" : "thnk",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 17
+	},
+	{
+		"id" : 46,
+		"name" : "Hyundai",
+		"image" : null,
+		"slug" : "hyundai",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 18
+	},
+	{
+		"id" : 47,
+		"name" : "Genesis",
+		"image" : "uploads/custom-images/manufactures_and_brands/genesis-logo.png",
+		"slug" : "genesis",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 18
+	},
+	{
+		"id" : 48,
+		"name" : "HMC",
+		"image" : null,
+		"slug" : "hmc",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 18
+	},
+	{
+		"id" : 49,
+		"name" : "Jaguar",
+		"image" : "uploads/custom-images/manufactures_and_brands/jaguar-logo.png",
+		"slug" : "jaguar",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 19
+	},
+	{
+		"id" : 50,
+		"name" : "Land Rover",
+		"image" : "uploads/custom-images/manufactures_and_brands/land-rover-logo.png",
+		"slug" : "land-rover",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 19
+	},
+	{
+		"id" : 51,
+		"name" : "KARMA",
+		"image" : "uploads/custom-images/manufactures_and_brands/karma-logo.png",
+		"slug" : "karma",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 20
+	},
+	{
+		"id" : 52,
+		"name" : "Kia",
+		"image" : "uploads/custom-images/manufactures_and_brands/kia-logo.png",
+		"slug" : "kia",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 21
+	},
+	{
+		"id" : 53,
+		"name" : "Koenigsegg",
+		"image" : "uploads/custom-images/manufactures_and_brands/koenigsegg-logo.png",
+		"slug" : "koenigsegg",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 22
+	},
+	{
+		"id" : 54,
+		"name" : "KTM",
+		"image" : "uploads/custom-images/manufactures_and_brands/ktm-logo.png",
+		"slug" : "ktm",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 23
+	},
+	{
+		"id" : 55,
+		"name" : "Husqvarna",
+		"image" : null,
+		"slug" : "husqvarna",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 23
+	},
+	{
+		"id" : 56,
+		"name" : "Husaberg",
+		"image" : null,
+		"slug" : "husaberg",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 23
+	},
+	{
+		"id" : 57,
+		"name" : "GasGas",
+		"image" : null,
+		"slug" : "gasgas",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 23
+	},
+	{
+		"id" : 58,
+		"name" : "Lamborghini",
+		"image" : "uploads/custom-images/manufactures_and_brands/lamborghini-logo.png",
+		"slug" : "lamborghini",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 24
+	},
+	{
+		"id" : 59,
+		"name" : "Toyota",
+		"image" : "uploads/custom-images/manufactures_and_brands/toyota-logo.png",
+		"slug" : "toyota",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 25
+	},
+	{
+		"id" : 60,
+		"name" : "Lexus",
+		"image" : "uploads/custom-images/manufactures_and_brands/lexus-logo.png",
+		"slug" : "lexus",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 25
+	},
+	{
+		"id" : 61,
+		"name" : "Lordstown",
+		"image" : "uploads/custom-images/manufactures_and_brands/lordstown-logo.png",
+		"slug" : "lordstown",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 26
+	},
+	{
+		"id" : 62,
+		"name" : "Lotus",
+		"image" : "uploads/custom-images/manufactures_and_brands/lotus-logo.png",
+		"slug" : "lotus",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 27
+	},
+	{
+		"id" : 63,
+		"name" : "Lucid",
+		"image" : "uploads/custom-images/manufactures_and_brands/lucid-logo.png",
+		"slug" : "lucid",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 28
+	},
+	{
+		"id" : 64,
+		"name" : "Mahindra",
+		"image" : "uploads/custom-images/manufactures_and_brands/mahindra-logo.png",
+		"slug" : "mahindra",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 29
+	},
+	{
+		"id" : 65,
+		"name" : "Maserati",
+		"image" : "uploads/custom-images/manufactures_and_brands/maserati-logo.png",
+		"slug" : "maserati",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 30
+	},
+	{
+		"id" : 66,
+		"name" : "Chrysler",
+		"image" : null,
+		"slug" : "chrysler",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 30
+	},
+	{
+		"id" : 67,
+		"name" : "Mazda",
+		"image" : "uploads/custom-images/manufactures_and_brands/mazda-logo.png",
+		"slug" : "mazda",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 31
+	},
+	{
+		"id" : 68,
+		"name" : "McLaren",
+		"image" : "uploads/custom-images/manufactures_and_brands/mclaren-logo.png",
+		"slug" : "mclaren",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 32
+	},
+	{
+		"id" : 69,
+		"name" : "Mercedes-Benz",
+		"image" : "uploads/custom-images/manufactures_and_brands/mercedes-benz-logo.png",
+		"slug" : "mercedes-benz",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 33
+	},
+	{
+		"id" : 70,
+		"name" : "Freightliner",
+		"image" : null,
+		"slug" : "freightliner",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 33
+	},
+	{
+		"id" : 71,
+		"name" : "Chrysler",
+		"image" : null,
+		"slug" : "chrysler",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 34
+	},
+	{
+		"id" : 72,
+		"name" : "Mitsubishi",
+		"image" : "uploads/custom-images/manufactures_and_brands/mitsubishi-logo.png",
+		"slug" : "mitsubishi",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 34
+	},
+	{
+		"id" : 73,
+		"name" : "Mitsubishi Fuso",
+		"image" : null,
+		"slug" : "mitsubishi-fuso",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 34
+	},
+	{
+		"id" : 74,
+		"name" : "Plymouth",
+		"image" : null,
+		"slug" : "plymouth",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 34
+	},
+	{
+		"id" : 75,
+		"name" : "Mosler",
+		"image" : "uploads/custom-images/manufactures_and_brands/mosler-logo.png",
+		"slug" : "mosler",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 35
+	},
+	{
+		"id" : 76,
+		"name" : "NIKOLA",
+		"image" : "uploads/custom-images/manufactures_and_brands/nikola-logo.png",
+		"slug" : "nikola",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 36
+	},
+	{
+		"id" : 77,
+		"name" : "Buick",
+		"image" : null,
+		"slug" : "buick",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 37
+	},
+	{
+		"id" : 78,
+		"name" : "Opel",
+		"image" : "uploads/custom-images/manufactures_and_brands/opel-logo.png",
+		"slug" : "opel",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 37
+	},
+	{
+		"id" : 79,
+		"name" : "Saturn",
+		"image" : null,
+		"slug" : "saturn",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 37
+	},
+	{
+		"id" : 80,
+		"name" : "Peterbilt",
+		"image" : null,
+		"slug" : "peterbilt",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 38
+	},
+	{
+		"id" : 81,
+		"name" : "Kenworth",
+		"image" : null,
+		"slug" : "kenworth",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 38
+	},
+	{
+		"id" : 82,
+		"name" : "Pagani",
+		"image" : "uploads/custom-images/manufactures_and_brands/pagani-logo.png",
+		"slug" : "pagani",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 39
+	},
+	{
+		"id" : 83,
+		"name" : "Panoz",
+		"image" : "uploads/custom-images/manufactures_and_brands/panoz-logo.png",
+		"slug" : "panoz",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 40
+	},
+	{
+		"id" : 84,
+		"name" : "Peterbilt",
+		"image" : "uploads/custom-images/manufactures_and_brands/peterbilt-logo.png",
+		"slug" : "peterbilt",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 41
+	},
+	{
+		"id" : 85,
+		"name" : "Peugeot",
+		"image" : "uploads/custom-images/manufactures_and_brands/peugeot-logo.png",
+		"slug" : "peugeot",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 42
+	},
+	{
+		"id" : 86,
+		"name" : "Porsche",
+		"image" : "uploads/custom-images/manufactures_and_brands/porsche-logo.png",
+		"slug" : "porsche",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 43
+	},
+	{
+		"id" : 87,
+		"name" : "Mack",
+		"image" : null,
+		"slug" : "mack",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 44
+	},
+	{
+		"id" : 88,
+		"name" : "RIVIAN",
+		"image" : "uploads/custom-images/manufactures_and_brands/rivian-logo.png",
+		"slug" : "rivian",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 45
+	},
+	{
+		"id" : 89,
+		"name" : "Rolls-Royce",
+		"image" : "uploads/custom-images/manufactures_and_brands/rolls-royce-logo.png",
+		"slug" : "rolls-royce",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 46
+	},
+	{
+		"id" : 90,
+		"name" : "Saleen",
+		"image" : "uploads/custom-images/manufactures_and_brands/saleen-logo.png",
+		"slug" : "saleen",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 47
+	},
+	{
+		"id" : 91,
+		"name" : "Spyker",
+		"image" : "uploads/custom-images/manufactures_and_brands/spyker-logo.png",
+		"slug" : "spyker",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 48
+	},
+	{
+		"id" : 92,
+		"name" : "Korando",
+		"image" : "uploads/custom-images/manufactures_and_brands/ssangyong-logo.png",
+		"slug" : "korando",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 49
+	},
+	{
+		"id" : 93,
+		"name" : "Studebaker Motor Company",
+		"image" : "uploads/custom-images/manufactures_and_brands/studebaker-logo.png",
+		"slug" : "studebaker-motor-company",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 50
+	},
+	{
+		"id" : 94,
+		"name" : "Subaru",
+		"image" : "uploads/custom-images/manufactures_and_brands/subaru-logo.png",
+		"slug" : "subaru",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 51
+	},
+	{
+		"id" : 95,
+		"name" : "Suzuki",
+		"image" : "uploads/custom-images/manufactures_and_brands/suzuki-logo.png",
+		"slug" : "suzuki",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 52
+	},
+	{
+		"id" : 96,
+		"name" : "Tesla",
+		"image" : "uploads/custom-images/manufactures_and_brands/tesla-logo.png",
+		"slug" : "tesla",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 53
+	},
+	{
+		"id" : 97,
+		"name" : "Volkswagen",
+		"image" : "uploads/custom-images/manufactures_and_brands/volkswagen-logo.png",
+		"slug" : "volkswagen",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 54
+	},
+	{
+		"id" : 98,
+		"name" : "Lamborghini",
+		"image" : null,
+		"slug" : "lamborghini",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 54
+	},
+	{
+		"id" : 99,
+		"name" : "Ducati",
+		"image" : null,
+		"slug" : "ducati",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 54
+	},
+	{
+		"id" : 100,
+		"name" : "Porsche",
+		"image" : null,
+		"slug" : "porsche",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 54
+	},
+	{
+		"id" : 101,
+		"name" : "Volvo",
+		"image" : "uploads/custom-images/manufactures_and_brands/volvo-logo.png",
+		"slug" : "volvo",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 55
+	},
+	{
+		"id" : 102,
+		"name" : "Western Star",
+		"image" : "uploads/custom-images/manufactures_and_brands/western-star-logo.png",
+		"slug" : "western-star",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 56
+	},
+	{
+		"id" : 103,
+		"name" : "Workhorse",
+		"image" : "uploads/custom-images/manufactures_and_brands/workhorse-logo.png",
+		"slug" : "workhorse",
+		"status" : "enable",
+		"created_at" : null,
+		"updated_at" : null,
+		"manufacture_id" : 57
+	},
+	{
+		"id" : 125,
+		"name" : "ACURA",
+		"image" : null,
+		"slug" : "ACURA",
+		"status" : "enable",
+		"created_at" : "2025-03-14 20:26:37",
+		"updated_at" : "2025-03-14 20:26:37",
+		"manufacture_id" : 62
+	},
+	{
+		"id" : 126,
+		"name" : "ALFA ROMEO",
+		"image" : null,
+		"slug" : "ALFA ROMEO",
+		"status" : "enable",
+		"created_at" : "2025-03-14 20:43:38",
+		"updated_at" : "2025-03-14 20:43:38",
+		"manufacture_id" : 63
+	}
+]

@@ -1,0 +1,443 @@
+[
+	{
+		"id" : 1,
+		"name" : "FCA ITALY SPA",
+		"logo" : null,
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 2,
+		"name" : "ASTON MARTIN LAGONDA LIMITED",
+		"logo" : "uploads/custom-images/manufactures_and_brands/aston-martin-logo.png",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 3,
+		"name" : "AUDI AG",
+		"logo" : "uploads/custom-images/manufactures_and_brands/audi-logo.png",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 4,
+		"name" : "BENTLEY MOTORS LIMITED",
+		"logo" : "uploads/custom-images/manufactures_and_brands/bentley-logo.png",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 5,
+		"name" : "BMW AG",
+		"logo" : "uploads/custom-images/manufactures_and_brands/bmw-logo.png",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 6,
+		"name" : "BRAMMO INC",
+		"logo" : "uploads/custom-images/manufactures_and_brands/brammo-logo.png",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 7,
+		"name" : "BUGATTI AUTOMOBILES SAS",
+		"logo" : "uploads/custom-images/manufactures_and_brands/bugatti-logo.png",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 8,
+		"name" : "GENERAL MOTORS LLC",
+		"logo" : "uploads/custom-images/manufactures_and_brands/general-motors-logo.png",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 9,
+		"name" : "BYD AUTO CO LTD",
+		"logo" : "uploads/custom-images/manufactures_and_brands/byd-logo.png",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 10,
+		"name" : "CANOO TECHNOLOGIES INC",
+		"logo" : "uploads/custom-images/manufactures_and_brands/canoo-logo.png",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 11,
+		"name" : "DAIHATSU MOTOR CO LTD",
+		"logo" : "uploads/custom-images/manufactures_and_brands/daihatsu-logo.png",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 12,
+		"name" : "NISSAN MOTOR COMPANY LTD",
+		"logo" : "uploads/custom-images/manufactures_and_brands/nissan-logo.png",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 13,
+		"name" : "JDC ENTERPRISES INC",
+		"logo" : null,
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 14,
+		"name" : "ROYAL ENFIELD A UNIT OF EICHER MOTORS LTD",
+		"logo" : "uploads/custom-images/manufactures_and_brands/eicher-logo.png",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 15,
+		"name" : "FERRARI SPA",
+		"logo" : "uploads/custom-images/manufactures_and_brands/ferrari-logo.png",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 16,
+		"name" : "FISKER AUTOMOTIVE INC",
+		"logo" : "uploads/custom-images/manufactures_and_brands/fisker-logo.png",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 17,
+		"name" : "FORD MOTOR COMPANY",
+		"logo" : "uploads/custom-images/manufactures_and_brands/ford-logo.png",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 18,
+		"name" : "HYUNDAI MOTOR CO",
+		"logo" : null,
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 19,
+		"name" : "JAGUAR LAND ROVER LIMITED",
+		"logo" : "uploads/custom-images/manufactures_and_brands/jaguar-logo.png",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 20,
+		"name" : "KARMA AUTOMOTIVE INC",
+		"logo" : "uploads/custom-images/manufactures_and_brands/karma-logo.png",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 21,
+		"name" : "KIA CORPORATION",
+		"logo" : "uploads/custom-images/manufactures_and_brands/kia-logo.png",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 22,
+		"name" : "KOENIGSEGG AUTOMOTIVE AB",
+		"logo" : "uploads/custom-images/manufactures_and_brands/koenigsegg-logo.png",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 23,
+		"name" : "KTM AG",
+		"logo" : "uploads/custom-images/manufactures_and_brands/ktm-logo.png",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 24,
+		"name" : "AUTOMOBILI LAMBORGHINI SPA",
+		"logo" : "uploads/custom-images/manufactures_and_brands/lamborghini-logo.png",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 25,
+		"name" : "TOYOTA MOTOR CORPORATION",
+		"logo" : "uploads/custom-images/manufactures_and_brands/toyota-logo.png",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 26,
+		"name" : "LORDSTOWN EV CORPORATION",
+		"logo" : "uploads/custom-images/manufactures_and_brands/lordstown-logo.png",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 27,
+		"name" : "LOTUS CARS LIMITED",
+		"logo" : "uploads/custom-images/manufactures_and_brands/lotus-logo.png",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 28,
+		"name" : "LUCID USA INC",
+		"logo" : "uploads/custom-images/manufactures_and_brands/lucid-logo.png",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 29,
+		"name" : "MAHINDRA & MAHINDRA LIMITED",
+		"logo" : "uploads/custom-images/manufactures_and_brands/mahindra-logo.png",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 30,
+		"name" : "MASERATI SPA",
+		"logo" : "uploads/custom-images/manufactures_and_brands/maserati-logo.png",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 31,
+		"name" : "Mazda Motor Corporation",
+		"logo" : "uploads/custom-images/manufactures_and_brands/mazda-logo.png",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 32,
+		"name" : "MCLAREN AUTOMOTIVE LIMITED",
+		"logo" : "uploads/custom-images/manufactures_and_brands/mclaren-logo.png",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 33,
+		"name" : "MERCEDES-BENZ AG",
+		"logo" : "uploads/custom-images/manufactures_and_brands/mercedes-amg-logo.png",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 34,
+		"name" : "Mitsubishi Motors Corporation (MMC)",
+		"logo" : "uploads/custom-images/manufactures_and_brands/mitsubishi-logo.png",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 35,
+		"name" : "MOSLER AUTO CARE CENTERINC",
+		"logo" : "uploads/custom-images/manufactures_and_brands/mosler-logo.png",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 36,
+		"name" : "NIKOLA CORPORATION",
+		"logo" : "uploads/custom-images/manufactures_and_brands/nikola-logo.png",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 37,
+		"name" : "ADAM OPEL AG",
+		"logo" : null,
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 38,
+		"name" : "PACCAR INC",
+		"logo" : "uploads/custom-images/manufactures_and_brands/paccar-logo.png",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 39,
+		"name" : "PAGANI AUTOMOBILI SPA",
+		"logo" : "uploads/custom-images/manufactures_and_brands/pagani-logo.png",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 40,
+		"name" : "PANOZ AUTO DEVELOPMENT CORPORATION",
+		"logo" : "uploads/custom-images/manufactures_and_brands/panoz-logo.png",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 41,
+		"name" : "Peterbilt Motors Company",
+		"logo" : "uploads/custom-images/manufactures_and_brands/peterbilt-logo.png",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 42,
+		"name" : "AUTOMOBILES PEUGEOT",
+		"logo" : "uploads/custom-images/manufactures_and_brands/peugeot-logo.png",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 43,
+		"name" : "DR ING HCF PORSCHE AG",
+		"logo" : "uploads/custom-images/manufactures_and_brands/porsche-logo.png",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 44,
+		"name" : "RENAULT GROUP",
+		"logo" : "uploads/custom-images/manufactures_and_brands/renault-logo.png",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 45,
+		"name" : "RIVIAN AUTOMOTIVE LLC",
+		"logo" : "uploads/custom-images/manufactures_and_brands/rivian-logo.png",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 46,
+		"name" : "ROLLS ROYCE MOTOR CARS",
+		"logo" : "uploads/custom-images/manufactures_and_brands/rolls-royce-logo.png",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 47,
+		"name" : "SALEEN INC",
+		"logo" : "uploads/custom-images/manufactures_and_brands/saleen-logo.png",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 48,
+		"name" : "SPYKER NEDERLAND BV",
+		"logo" : "uploads/custom-images/manufactures_and_brands/spyker-logo.png",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 49,
+		"name" : "SSANGYONG MOTOR CO LTD",
+		"logo" : "uploads/custom-images/manufactures_and_brands/ssangyong-logo.png",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 50,
+		"name" : "STUDEBAKER MOTOR COMPANY",
+		"logo" : "uploads/custom-images/manufactures_and_brands/studebaker-logo.png",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 51,
+		"name" : "SUBARU CORPORATION",
+		"logo" : "uploads/custom-images/manufactures_and_brands/subaru-logo.png",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 52,
+		"name" : "SUZUKI MOTOR CORPORATION",
+		"logo" : "uploads/custom-images/manufactures_and_brands/suzuki-logo.png",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 53,
+		"name" : "TESLA INC",
+		"logo" : "uploads/custom-images/manufactures_and_brands/tesla-logo.png",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 54,
+		"name" : "VOLKSWAGEN AG",
+		"logo" : "uploads/custom-images/manufactures_and_brands/volkswagen-logo.png",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 55,
+		"name" : "VOLVO CAR CORPORATION",
+		"logo" : "uploads/custom-images/manufactures_and_brands/volvo-logo.png",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 56,
+		"name" : "WESTERN STAR TRUCKS INC",
+		"logo" : "uploads/custom-images/manufactures_and_brands/western-star-logo.png",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 57,
+		"name" : "WORKHORSE GROUP INC",
+		"logo" : "uploads/custom-images/manufactures_and_brands/workhorse-logo.png",
+		"created_at" : null,
+		"updated_at" : null
+	},
+	{
+		"id" : 58,
+		"name" : "HONDA MOTOR CO., LTD.",
+		"logo" : null,
+		"created_at" : "2025-03-14 17:06:39",
+		"updated_at" : "2025-03-14 17:06:39"
+	},
+	{
+		"id" : 59,
+		"name" : "BMW MANUFACTURER CORPORATION / BMW NORTH AMERICA",
+		"logo" : null,
+		"created_at" : "2025-03-14 17:43:45",
+		"updated_at" : "2025-03-14 17:43:45"
+	},
+	{
+		"id" : 60,
+		"name" : "SAAB CARS NORTH AMERICA, INC.",
+		"logo" : null,
+		"created_at" : "2025-03-14 20:11:13",
+		"updated_at" : "2025-03-14 20:11:13"
+	},
+	{
+		"id" : 61,
+		"name" : "FORD MOTOR COMPANY, MEXICO",
+		"logo" : null,
+		"created_at" : "2025-03-14 20:17:25",
+		"updated_at" : "2025-03-14 20:17:25"
+	},
+	{
+		"id" : 62,
+		"name" : "AMERICAN HONDA MOTOR CO., INC.",
+		"logo" : null,
+		"created_at" : "2025-03-14 20:18:41",
+		"updated_at" : "2025-03-14 20:18:41"
+	},
+	{
+		"id" : 63,
+		"name" : "ALFA ROMEO S.P.A.",
+		"logo" : null,
+		"created_at" : "2025-03-14 20:43:38",
+		"updated_at" : "2025-03-14 20:43:38"
+	}
+]

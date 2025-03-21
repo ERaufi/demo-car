@@ -1,0 +1,446 @@
+[
+	{
+		"id" : 1,
+		"name" : "Ambulance",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 2,
+		"name" : "Bus",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 3,
+		"name" : "Bus - School Bus",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 4,
+		"name" : "Cargo Van",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 5,
+		"name" : "Convertible/Cabriolet",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 6,
+		"name" : "Coupe",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 7,
+		"name" : "Crossover Utility Vehicle (CUV)",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 8,
+		"name" : "Fire Apparatus",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 9,
+		"name" : "Hatchback",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 10,
+		"name" : "Liftback",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 11,
+		"name" : "Notchback",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 12,
+		"name" : "Incomplete",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 13,
+		"name" : "Incomplete - Bus Chassis",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 14,
+		"name" : "Incomplete - Chassis Cab (Double Cab)",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 15,
+		"name" : "Incomplete - Chassis Cab (Number of Cab Unknown)",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 16,
+		"name" : "Incomplete - Chassis Cab (Single Cab)",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 17,
+		"name" : "Incomplete - Commercial Bus Chassis",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 18,
+		"name" : "Incomplete - Commercial Chassis",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 19,
+		"name" : "Incomplete - Cutaway",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 20,
+		"name" : "Incomplete - Glider",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 21,
+		"name" : "Incomplete - Motor Coach Chassis",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 22,
+		"name" : "Incomplete - Motor Home Chassis",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 23,
+		"name" : "Incomplete - School Bus Chassis",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 24,
+		"name" : "Incomplete - Shuttle Bus Chassis",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 25,
+		"name" : "Incomplete - Stripped Chassis",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 26,
+		"name" : "Incomplete - Trailer Chassis",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 27,
+		"name" : "Incomplete - Transit Bus Chassis",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 28,
+		"name" : "Limousine",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 29,
+		"name" : "Low Speed Vehicle (LSV) / Neighborhood Electric Vehicle (NEV)",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 30,
+		"name" : "Minivan",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 31,
+		"name" : "Motorcycle - Competition",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 32,
+		"name" : "Motorcycle - Cross Country",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 33,
+		"name" : "Motorcycle - Cruiser",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 34,
+		"name" : "Motorcycle - Custom",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 35,
+		"name" : "Motorcycle - Dual Sport / Adventure / Supermoto / On/Off-road",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 36,
+		"name" : "Motorcycle - Enclosed Three Wheeled or Enclosed Autocycle [1 Rear Wheel]",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 37,
+		"name" : "Motorcycle - Moped",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 38,
+		"name" : "Motorcycle - Scooter",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 39,
+		"name" : "Motorcycle - Side Car",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 40,
+		"name" : "Motorcycle - Small / Minibike",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 41,
+		"name" : "Motorcycle - Sport",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 42,
+		"name" : "Motorcycle - Standard",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 43,
+		"name" : "Motorcycle - Street",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 44,
+		"name" : "Motorcycle - Three Wheeled, Unknown Enclosure or Autocycle, Unknown Enclosure",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 45,
+		"name" : "Motorcycle - Three-Wheeled Motorcycle (2 Rear Wheels)",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 46,
+		"name" : "Motorcycle - Touring / Sport Touring",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 47,
+		"name" : "Motorcycle - Underbone",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 48,
+		"name" : "Motorcycle - Unenclosed Three Wheeled or Open Autocycle [1 Rear Wheel]",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 49,
+		"name" : "Motorcycle - Unknown Body Class",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 50,
+		"name" : "Motorhome",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 51,
+		"name" : "Off-road Vehicle - All Terrain Vehicle (ATV) (Motorcycle-style)",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 52,
+		"name" : "Off-road Vehicle - Construction Equipment",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 53,
+		"name" : "Off-road Vehicle - Dirt Bike / Off-Road",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 54,
+		"name" : "Off-road Vehicle - Enduro (Off-road long distance racing)",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 55,
+		"name" : "Off-road Vehicle - Farm Equipment",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 56,
+		"name" : "Off-road Vehicle - Go Kart",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 57,
+		"name" : "Off-road Vehicle - Golf Cart",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 58,
+		"name" : "Off-road Vehicle - Motocross (Off-road short distance, closed track racing)",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 59,
+		"name" : "Off-road Vehicle - Multipurpose Off-Highway Utility Vehicle [MOHUV] or Recreational Off-Highway Vehicle [ROV]",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 60,
+		"name" : "Off-road Vehicle - Snowmobile",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 61,
+		"name" : "Pickup",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 62,
+		"name" : "Roadster",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 63,
+		"name" : "Sedan/Saloon",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 64,
+		"name" : "Sport Utility Truck (SUT)",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 65,
+		"name" : "SUV/MPV",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 66,
+		"name" : "Step Van / Walk-in Van",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 67,
+		"name" : "Street Sweeper",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 68,
+		"name" : "Streetcar / Trolley",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 69,
+		"name" : "Trailer",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 70,
+		"name" : "Truck",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 71,
+		"name" : "Truck-Tractor",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 72,
+		"name" : "Van",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 73,
+		"name" : "Wagon",
+		"created_at" : "2025-01-24 15:15:11",
+		"updated_at" : "2025-01-24 15:15:11"
+	},
+	{
+		"id" : 74,
+		"name" : "Sport Utility Vehicle (SUV)/Multi-Purpose Vehicle (MPV)",
+		"created_at" : "2025-03-14 18:00:07",
+		"updated_at" : "2025-03-14 18:00:07"
+	}
+]
